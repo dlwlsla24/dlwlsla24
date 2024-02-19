@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20CYJ's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<h1 align="center">Hi 👋, I'm Yoonju Chu</h1>
+<h1 align="center">Hi 👋, I'm Yoonjoo Chu</h1>
